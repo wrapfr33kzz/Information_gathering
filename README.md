@@ -20,13 +20,3 @@ This tool for beginner and help those people they gather information about Email
   > - python3 main.py
 
 
-## Follow me on my social networks:
-
-1. LinkedIn: https://in.linkedin.com/in/chetanbansal11
-
-2. Twitter: https://twitter.com/cbkali7838
-
-3. Instagram: https://www.instagram.com/i.m.cbkali/
-
-4. GitHub: https://github.com/cb-kali/
-
